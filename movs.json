@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "produto_id": 1,
+    "tipo": "E",
+    "quantidade": 10,
+    "data": "2026-06-01",
+    "observacao": "Reabastecimento semanal"
+  },
+  {
+    "id": 2,
+    "produto_id": 2,
+    "tipo": "E",
+    "quantidade": 5,
+    "data": "2026-06-01",
+    "observacao": "Compra do fornecedor"
+  },
+  {
+    "id": 3,
+    "produto_id": 3,
+    "tipo": "E",
+    "quantidade": 8,
+    "data": "2026-06-01",
+    "observacao": "Estoque inicial"
+  },
+  {
+    "id": 4,
+    "produto_id": 1,
+    "tipo": "S",
+    "quantidade": 4,
+    "data": "2026-06-02",
+    "observacao": "Venda no balcao"
+  },
+  {
+    "id": 5,
+    "produto_id": 4,
+    "tipo": "E",
+    "quantidade": 15,
+    "data": "2026-06-02",
+    "observacao": "Entrega atrasada"
+  },
+  {
+    "id": 6,
+    "produto_id": 2,
+    "tipo": "S",
+    "quantidade": 3,
+    "data": "2026-06-03",
+    "observacao": "Saida para cliente"
+  },
+  {
+    "id": 7,
+    "produto_id": 5,
+    "tipo": "E",
+    "quantidade": 5,
+    "data": "2026-06-03",
+    "observacao": "Nova remessa"
+  },
+  {
+    "id": 8,
+    "produto_id": 3,
+    "tipo": "S",
+    "quantidade": 2,
+    "data": "2026-06-04",
+    "observacao": "Venda especial"
+  },
+  {
+    "id": 9,
+    "produto_id": 6,
+    "tipo": "E",
+    "quantidade": 100,
+    "data": "17/06/2026",
+    "observacao": "Entrega BrasPress"
+  },
+  {
+    "id": 10,
+    "produto_id": 6,
+    "tipo": "S",
+    "quantidade": 50,
+    "data": "17/06/2026",
+    "observacao": "Subiu para as gôndolas"
+  }
+]

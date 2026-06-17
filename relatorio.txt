@@ -1,0 +1,25 @@
+=== SGL - Relatorio Geral ===
+
+--- Produtos ---
+5 | Aromatizador | Outros | R$ 14.20 | estoque 10
+1 | Arroz | Alimento | R$ 12.50 | estoque 20
+4 | Detergente | Limpeza | R$ 3.80 | estoque 25
+2 | Feijao | Alimento | R$ 8.30 | estoque 15
+6 | Macarrão | Alimento | R$ 6.59 | estoque 100
+3 | Sabao em po | Limpeza | R$ 18.90 | estoque 12
+
+--- Movimentacoes ---
+1 | 2026-06-01 | Entrada | 1 | Arroz | 10 | Reabastecimento semanal
+2 | 2026-06-01 | Entrada | 2 | Feijao | 5 | Compra do fornecedor
+3 | 2026-06-01 | Entrada | 3 | Sabao em po | 8 | Estoque inicial
+4 | 2026-06-02 | Saida | 1 | Arroz | 4 | Venda no balcao
+5 | 2026-06-02 | Entrada | 4 | Detergente | 15 | Entrega atrasada
+6 | 2026-06-03 | Saida | 2 | Feijao | 3 | Saida para cliente
+7 | 2026-06-03 | Entrada | 5 | Aromatizador | 5 | Nova remessa
+8 | 2026-06-04 | Saida | 3 | Sabao em po | 2 | Venda especial
+9 | 17/06/2026 | Entrada | 6 | Macarrão | 100 | Entrega BrasPress
+10 | 17/06/2026 | Saida | 6 | Macarrão | 50 | Subiu para as gôndolas
+
+Total de entradas: 143
+Total de saidas: 59
+Valor total do estoque: R$ 1497.30

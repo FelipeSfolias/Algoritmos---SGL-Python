@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Arroz",
+    "categoria": "Alimento",
+    "preco": 12.5,
+    "estoque": 20
+  },
+  {
+    "id": 2,
+    "nome": "Feijao",
+    "categoria": "Alimento",
+    "preco": 8.3,
+    "estoque": 15
+  },
+  {
+    "id": 3,
+    "nome": "Sabao em po",
+    "categoria": "Limpeza",
+    "preco": 18.9,
+    "estoque": 12
+  },
+  {
+    "id": 4,
+    "nome": "Detergente",
+    "categoria": "Limpeza",
+    "preco": 3.8,
+    "estoque": 25
+  },
+  {
+    "id": 5,
+    "nome": "Aromatizador",
+    "categoria": "Outros",
+    "preco": 14.2,
+    "estoque": 10
+  },
+  {
+    "id": 6,
+    "nome": "Macarrão",
+    "categoria": "Alimento",
+    "preco": 6.59,
+    "estoque": 100
+  }
+]
